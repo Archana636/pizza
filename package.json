@@ -1,0 +1,21 @@
+{
+  "name": "pizzapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "archu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.7",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  },
+  "keywords": [],
+  "description": "Sample pizza App"
+}
